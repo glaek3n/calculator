@@ -39,6 +39,10 @@ public class Calculator {
         char choice = wybor.next().charAt(0);
         if (choice == 'd') {
             calculator.addAtoB();
+
+
+
+            //ssonasdj
         }
         if (choice == 'o') {
             calculator.substractAfromB();
