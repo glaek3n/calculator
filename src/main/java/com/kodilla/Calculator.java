@@ -15,11 +15,6 @@ public class Calculator {
 
     public void addAtoB() {
 
-
-
-
-
-
         System.out.println("Podaj liczbę a");
         int a = konsola.nextInt();
         System.out.println("Podaj liczbę b");
