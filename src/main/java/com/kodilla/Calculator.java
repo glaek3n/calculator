@@ -14,9 +14,9 @@ public class Calculator {
     public Calculator(){};
 
     public void addAtoB() {
-        System.out.println("Podaj liczbę a");
+        System.out.println("Podaj liczbę aaa");
         int a = konsola.nextInt();
-        System.out.println("Podaj liczbę b");
+        System.out.println("Podaj liczbę bbbb");
         int b = konsola.nextInt();
         System.out.println("Wynik dodawania to : " + (a + b));
     }
